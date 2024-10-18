@@ -1,0 +1,62 @@
+/* Home.css */
+.home-container {
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .logo h1 {
+    font-size: 24px;
+  }
+  
+  .highlight {
+    color: rgb(255, 255, 255);
+  }
+  
+  .heart-icon {
+    font-size: 18px;
+    margin-left: 5px;
+  }
+  
+  .navbar a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .main-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+  }
+  
+  .hero {
+    max-width: 500px;
+  }
+  
+  .hero h2 {
+    font-size: 48px;
+    color: red;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .hero-image {
+    max-width: 400px;
+    height: auto;
+  }
+  
